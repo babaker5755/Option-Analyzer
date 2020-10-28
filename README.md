@@ -1,7 +1,7 @@
 # OptionAnalyzer
 
 ## Demo
-![GIF Demo](https://github.com/babaker5755/OptionAnalyzer/blob/master/option_analyzer_gif.gif)
+![GIF Demo](https://github.com/babaker5755/Option-Analyzer/blob/main/option_analyzer_gif.gif)
 
 
 ## Description
