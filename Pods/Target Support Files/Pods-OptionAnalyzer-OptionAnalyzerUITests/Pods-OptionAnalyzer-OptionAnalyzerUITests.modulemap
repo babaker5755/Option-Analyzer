@@ -1,0 +1,6 @@
+framework module Pods_OptionAnalyzer_OptionAnalyzerUITests {
+  umbrella header "Pods-OptionAnalyzer-OptionAnalyzerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
